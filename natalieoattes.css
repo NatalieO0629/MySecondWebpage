@@ -1,0 +1,31 @@
+h1 {
+    color: darkcyan;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    color: darkolivegreen;
+}
+
+.intro {
+    color: coral;
+    font-style:italic
+}
+
+img {
+    width: 500px;
+}
+
+h2 {
+    color: burlywood;
+    font-size: 40px;     
+}
+
+figcaption {
+    color:crimson;
+} 
+
+li {
+    color: darksalmon;
+}
